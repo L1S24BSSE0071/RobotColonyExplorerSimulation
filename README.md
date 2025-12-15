@@ -34,11 +34,11 @@ When the program runs:
 > Output
 
 The graphical window displays a 10 × 10 grid where:
-Green squares – Energy cells
-Gray squares – Rocks
-White squares – Empty cells
-Blue circles – Active robots
-Dark gray circles – Inactive robots
+- Green squares – Energy cells
+- Gray squares – Rocks
+- White squares – Empty cells
+- Blue circles – Active robots
+- Dark gray circles – Inactive robots
 
 <img width="495" height="560" alt="image" src="https://github.com/user-attachments/assets/d2a4e3be-a0a4-43b7-b38f-8d9ba29cc8f8" /> <img width="494" height="559" alt="image" src="https://github.com/user-attachments/assets/8a894cad-c746-4e71-8eb7-9cc2aa5e086c" />
 
