@@ -46,3 +46,14 @@ It shows the practical use of object-oriented principles such as encapsulation a
 Through the combination of random movement, energy management, and visual updates, the simulation feels lively and unpredictable.
 Implementing file handling added persistence, allowing progress to be saved and reloaded, which enhances the learning value of the program.
 Overall, the simulation serves as a great example of combining logic, GUI, and file handling in a cohesive way while keeping the code easy to understand and extend in future improvements.
+
+## 🚀 How to Run
+
+### Prerequisites
+* Java Development Kit (JDK) 8 or higher.
+
+### Compilation
+Navigate to the directory containing your source files and run:
+
+```bash
+javac Cell.java Robot.java Terrain.java ExplorerApp.java
